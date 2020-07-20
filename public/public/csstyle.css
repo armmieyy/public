@@ -1,0 +1,39 @@
+body{
+    font-family: 'Rowdies', cursive;
+}
+        .cshead{
+            background-color: lightblue;
+            height: 140px;
+            width: 135px;
+            text-align: center;
+            font-size: 22px;
+            font-family: 'Rowdies', cursive;
+            border: 10px solid blue;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        
+                        .button {
+                          background-color: #4CAF50; /* Green */
+                          border: none;
+                          color: white;
+                          padding: 15px 32px;
+                          text-align: center;
+                          text-decoration: none;
+                          display: inline-block;
+                          font-size: 16px;
+                          margin: 4px 2px;
+                          cursor: pointer;
+                          width: 165px;
+                          
+                          
+  
+                        }
+                        .button2 {background-color: #077ba1;} /* Blue */
+                        .button3 {background-color: #f44336;} /* Red */ 
+                        .button4 {background-color: #d6b4b4; color: black;} /* Gray */ 
+                        .button5 {background-color: #555555;} /* Black */
+                        
+                        
